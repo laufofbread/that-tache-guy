@@ -1,14 +1,7 @@
-  <footer class="footer cf" role="contentinfo">
-
-    <div class="copyright">
-      <?php echo $site->copyright()->kirbytext() ?>
-    </div>
-
-    <div class="colophon">
-      <a href="http://getkirby.com/made-with-kirby-and-love">Made with Kirby and <b>♥</b></a>
-    </div>
-
-  </footer>
-
+    <script src="assets/js/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="assets/js/jquery.fitvids.js" type="text/javascript" charset="utf-8"></script>
+    <script src="assets/js/app.js" type="text/javascript" charset="utf-8"></script>
+    
+    
 </body>
 </html>

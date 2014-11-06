@@ -11,5 +11,6 @@
             <img class="me-images" src="assets/images/like-me.png" alt="Like Me"> FACEBOOK 
             <img class="me-images" src="assets/images/watch-me.png" alt="Watch Me"><a href="https://www.youtube.com/channel/UCK_mT22uGjDKFdDM6GnRT-Q"> YOUTUBE</a></p>
     </div>
+    
 
 <?php snippet('footer') ?>

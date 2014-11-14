@@ -7,7 +7,7 @@
     <!-- <h1 class="long-review">Absurdist comedy,<br><i>in the spirit of Reeves and Mortimer and The Mighty Boosh</i><br>happily bonkers..<br>smooth as peanut butter.
     <span>Time-out</span></h1> -->
         
-    <a href="">
+    <a href="<?php echo $site->url() ?>/events.php">
         <div class="yellow-bar">
             <img src="/assets/images/seeemelive-text.png" width="300" height="34" alt="See Me Live!" class="see-me-live">
         </div>

@@ -4,7 +4,7 @@
 
     <div class="text">
       <h1>Come see me!</h1>
-      <?php snippet('events') ?>
+      
     </div>
 
   </main>

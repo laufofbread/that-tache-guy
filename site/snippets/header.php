@@ -16,9 +16,14 @@
 <body>
 
   <div class="header-container">
-      <h1 class="reviews"><i>Surreal and</i><br>exquisite
-<span>Broadway Baby</span></h1>
+     
+      <h1 class="reviews"><i>&ldquo;Surreal and</i><br>exquisite&rdquo;
+          <span>Broadway Baby</span></h1>
+
+    <a href="/">
       <img class="logo" src="assets/images/logo.png" width="1800" height="160" alt="Guy Combes">
-      <h1 class="reviews">Hilarious!
-<span>Such Small Portions</span></h1>
+    </a>
+    
+      <h1 class="reviews">&ldquo;Hilarious!&rdquo;
+          <span>Such Small Portions</span></h1>
   </div>

@@ -11,7 +11,7 @@ body {
 }
 
 .video-wrapper {
-    width:              65%;
+    width:              80%;
     margin-left:        auto;
     margin-right:       auto;
 }
@@ -34,27 +34,32 @@ body {
 
 .reviews {
     display:    inline-block;
+    margin-top: -120px;
+}
+
+.reviews, .long-review {
     color:  #ceba9e;
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-weight:    100;
     text-transform: uppercase;
     vertical-align: middle;
-    margin-top: -120px;
     line-height:    34px;
     text-shadow: 1px 1px 2px rgba(74, 31, 33, 1);
 }
 
-.reviews i {
+.reviews i, .long-review i {
     font-style: normal;
     font-size:  22px;
     line-height:    20px;
+    margin-left:    -10px;
 }
 
-.reviews span {
+.reviews span, .long-review span {
     font-size:  12px;
     font-weight:    600;
     display:    block;
+    line-height:    21px;
 }
 
 /*credit styles*/
@@ -88,8 +93,55 @@ a:hover {
     padding-top:        1px;
 }
 
+.yellow-bar {
+    width:  100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color:   #F2E4Bd;
+    margin-top: 25px;
+    height: 30px;
+}
 
-@media all and (max-width: 768px) {
+.yellow-bar:hover {
+    background-color:   #e2a817;
+}
+
+.see-me-live {
+    width: 270px;
+    height: auto;
+}
+
+@media all and (max-width: 1150px) {
+    .logo {
+        margin: 20px 3%;
+    }
     
+    .video-wrapper {
+        width:  90%;
+    }
+}
+
+
+@media all and (max-width: 990px) {
+    .reviews {
+        display:    none;
+    }
+}
+
+@media all and (max-width: 640px) {
+    .header-container {
+        background-size:    1500px;
+        padding-bottom: 15px;
+    }
+    
+    .logo {
+        width:  100%;
+        width:  calc(100% - 60px);
+        margin: 20px 30px;
+    }
+    
+    .mob-hide {
+        display:    none;
+    }
 }
 

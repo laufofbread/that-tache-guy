@@ -1,17 +1,17 @@
-Title: Kirby Starterkit
+Title: Guy Combes | Actor
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Laura McCartney lauramccartney.co.uk
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Guy Combes, actor extraordinaire.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: Guy, Combes, Actor
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2014 Laura McCartney
